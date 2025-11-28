@@ -1,2 +1,7 @@
 numbers
+<<<<<<< HEAD
 2
+=======
+1
+>>>>>>> origin/main
+EOF
